@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **iamlucki/iamlucki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/iamlucki">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iamlucki" height="150"/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iamlucki&theme=radical&langs_count=10" height="150"/>
 </a>
+
 <a href="https://github.com/iamlucki">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=iamlucki&show_icons=true" height="150"/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=iamlucki&show_icons=true&theme=radical" height="150"/>
 </a>
