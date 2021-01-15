@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/iamlucki">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=iamlucki&show_icons=true&theme=radical" height="150"/>
 </a>
+
+<a target="_blank" href="https://www.youtube.com/watch?v=iKAginGVpVI">🎧</a>
+</br>
+<a target="_blank" href="https://open.spotify.com/user/iamlucki">| My Spotify |</a>
