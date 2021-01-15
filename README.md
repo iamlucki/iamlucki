@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/iamlucki">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iamlucki" height="230"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iamlucki" height="150"/>
 </a>
 <a href="https://github.com/iamlucki">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=iamlucki&show_icons=true" height="230"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=iamlucki&show_icons=true" height="150"/>
 </a>
