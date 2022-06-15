@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </a>
 
 <a target="_blank" href="https://www.youtube.com/watch?v=iKAginGVpVI">🎧</a>
-<br/
+<br/>
 <a target="_blank" href="https://open.spotify.com/user/iamlucki">| My Spotify |</a>
 <br/>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamlucki&theme=hacker&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
