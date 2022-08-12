@@ -21,8 +21,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=iamlucki&show_icons=true&theme=radical" height="150"/>
 </a>
 <br/>
-<a target="_blank" href="https://open.spotify.com/user/iamlucki">| My Spotify |</a>
-<br/>
 <a href="https://github.com/iamlucki">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=iamlucki&theme=hacker&hide_border=true&date_format=n%2Fj%5B%2FY%5D" height="150"/>
 </a>
